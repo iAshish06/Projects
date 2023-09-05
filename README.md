@@ -1,2 +1,2 @@
 # Projects
-Just my some personal projects
+This repo is about my personal machine learning and Deep learning projects. 
